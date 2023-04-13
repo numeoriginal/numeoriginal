@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning DevOps technologies 
 - 📫 How to reach me constantin.v.carp@gmail.com, linkedin.com/in/carpc
 
-- Currently doing ING devOps devSchool
 
 <!---
 numeoriginal/numeoriginal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
